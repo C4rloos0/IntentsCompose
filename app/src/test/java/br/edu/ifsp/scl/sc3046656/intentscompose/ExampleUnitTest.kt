@@ -1,4 +1,4 @@
-package br.edu.ifsp.scl.sc3046656.stringconcatenator
+package br.edu.ifsp.scl.sc3046656.intentscompose
 
 import org.junit.Test
 

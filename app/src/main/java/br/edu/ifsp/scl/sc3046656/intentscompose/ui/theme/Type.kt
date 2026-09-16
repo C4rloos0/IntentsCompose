@@ -1,4 +1,4 @@
-package br.edu.ifsp.scl.sc3046656.stringconcatenator.ui.theme
+package br.edu.ifsp.scl.sc3046656.intentscompose.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

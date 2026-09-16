@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "br.edu.ifsp.scl.sc3046656.stringconcatenator"
+    namespace = "br.edu.ifsp.scl.sc3046656.intentscompose"
     compileSdk {
         version = release(37)
     }

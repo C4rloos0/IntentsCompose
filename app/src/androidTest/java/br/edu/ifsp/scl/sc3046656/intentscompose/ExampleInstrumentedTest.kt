@@ -1,4 +1,4 @@
-package br.edu.ifsp.scl.sc3046656.stringconcatenator
+package br.edu.ifsp.scl.sc3046656.intentscompose
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

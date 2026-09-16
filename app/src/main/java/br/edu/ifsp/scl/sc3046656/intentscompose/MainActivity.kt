@@ -1,4 +1,4 @@
-package br.edu.ifsp.scl.sc3046656.stringconcatenator
+package br.edu.ifsp.scl.sc3046656.intentscompose
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import br.edu.ifsp.scl.sc3046656.stringconcatenator.ui.theme.StringConcatenatorTheme
+import br.edu.ifsp.scl.sc3046656.intentscompose.ui.theme.StringConcatenatorTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
