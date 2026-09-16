@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "StringConcatenator"
+rootProject.name = "IntentsCompose"
 include(":app")
  
